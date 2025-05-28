@@ -1,5 +1,5 @@
-import car4Image from "../assets/car-4.png";
-import car4Preview from "../assets/preview-4.png";
+import car4Image from "../../assets/car-4.png";
+import car4Preview from "../../assets/preview-4.png";
 
 const PreviewImage = ({ selected = false }) => {
   return (

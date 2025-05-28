@@ -4,7 +4,7 @@ import Footer from "./Footer";
 
 export default function MainPanel() {
   return (
-    <div className="flex-[3] flex flex-col justify-between gap-10">
+    <div className="flex-1 flex flex-col justify-between gap-10">
       <Header />
       <MainContent />
       <Footer />

@@ -1,4 +1,4 @@
-import Icon from "../assets/Vector.svg";
+import Icon from "../../assets/Vector.svg";
 
 const getColorThemeForScore = (score) => {
   if (score === 5) {

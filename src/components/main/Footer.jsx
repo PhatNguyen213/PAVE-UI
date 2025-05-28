@@ -1,11 +1,11 @@
-import CarOverview from "../assets/Car Overview Map.svg";
-import FilterIcon from "../assets/colorfilter.svg";
-import CarIcon from "../assets/Car.svg";
-import AnchorIcon from "../assets/Anchor.svg";
-import CursorIcon from "../assets/Cursor.svg";
-import SearchIcon from "../assets/search-normal.svg";
-import RotateIcon from "../assets/rotate-right.svg";
-import SupportImage from "../assets/support-1.png";
+import CarOverview from "../../assets/Car Overview Map.svg";
+import FilterIcon from "../../assets/colorfilter.svg";
+import CarIcon from "../../assets/Car.svg";
+import AnchorIcon from "../../assets/Anchor.svg";
+import CursorIcon from "../../assets/Cursor.svg";
+import SearchIcon from "../../assets/search-normal.svg";
+import RotateIcon from "../../assets/rotate-right.svg";
+import SupportImage from "../../assets/support-1.png";
 
 const ActionBar = () => {
   return (

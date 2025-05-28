@@ -2,7 +2,6 @@
 
 body {
   background: #f9fafb; /* Make it white if you need */
-  padding: 0 24px;
   margin: 0;
   height: 100vh;
   display: flex;
