@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a5edc1e6-4fc7-47e7-aa82-7d9a6997b9a0",
+    "score": 5,
+    "componentName": "[C]QUARTER_PANEL_LEFT",
+    "damageDescription": "DENTED_MAJOR_THROUGH_PAINT",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "c37dba34-5e74-4268-99f9-75ddefbaea51",
+    "score": 1,
+    "componentName": "[C]QUARTER_PANEL_LEFT",
+    "damageDescription": "SCRATCH_MAJOR_THROUGH_PAINT",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "f0eb0778-0db4-4fc4-9cd9-3668a0fc7762",
+    "score": 3,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "BROKEN_MEDIUM",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "55801efc-d8de-4f2f-9422-90f30acbb09c",
+    "score": 3,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "DENTED_MAJOR_THROUGH_PAINT",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "7b25d267-6f05-4173-8c78-ea404e3b7a7f",
+    "score": 2,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "BROKEN_MEDIUM",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "b422f605-4dfc-4b60-9d89-d76b9452055f",
+    "score": 5,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "BROKEN_MEDIUM",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "0436442d-5d6f-4e9c-94b5-998abc8b2124",
+    "score": 1,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "DENTED_MAJOR_THROUGH_PAINT",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "260640d4-d9d6-4cfd-9e1e-2dc3447d8f19",
+    "score": 4,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "BROKEN_MEDIUM",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "74527b6b-9c78-4205-a546-536b7895846e",
+    "score": 3,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "SCRATCH_MAJOR_THROUGH_PAINT",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "a288d470-0053-4b20-9ce9-9e4f1330bb28",
+    "score": 5,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "BROKEN_MEDIUM",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "7fbefc8d-eca3-4c7f-9b2d-8f56822f89e0",
+    "score": 3,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "BROKEN_MEDIUM",
+    "agentName": "Duy.Nguyen Khanh"
+  },
+  {
+    "id": "de77a19e-001d-4376-8b73-919246559869",
+    "score": 1,
+    "componentName": "[C](PART) GAS_CAP_COVER_UNIQUE",
+    "damageDescription": "SCRATCH_MAJOR_THROUGH_PAINT",
+    "agentName": "Duy.Nguyen Khanh"
+  }
+]

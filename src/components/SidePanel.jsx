@@ -1,100 +1,13 @@
 import DamageItem from "./DamageItem";
-import { v4 as uuidv4 } from "uuid";
-
-const data = [
-  {
-    id: uuidv4(),
-    score: 5,
-    componentName: "[C]QUARTER_PANEL_LEFT",
-    damageDescription: "DENTED_MAJOR_THROUGH_PAINT",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 1,
-    componentName: "[C]QUARTER_PANEL_LEFT",
-    damageDescription: "SCRATCH_MAJOR_THROUGH_PAINT",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 3,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "BROKEN_MEDIUM",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 3,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "DENTED_MAJOR_THROUGH_PAINT",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 2,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "BROKEN_MEDIUM",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 5,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "BROKEN_MEDIUM",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 1,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "DENTED_MAJOR_THROUGH_PAINT",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 4,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "BROKEN_MEDIUM",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 3,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "SCRATCH_MAJOR_THROUGH_PAINT",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 5,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "BROKEN_MEDIUM",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 3,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "BROKEN_MEDIUM",
-    agentName: "Duy.Nguyen Khanh",
-  },
-  {
-    id: uuidv4(),
-    score: 1,
-    componentName: "[C](PART) GAS_CAP_COVER_UNIQUE",
-    damageDescription: "SCRATCH_MAJOR_THROUGH_PAINT",
-    agentName: "Duy.Nguyen Khanh",
-  },
-];
+import data from "../mock/data.json";
 
 export default function SidePanel() {
   return (
     <div className="relative flex flex-col h-full flex-1 border-l border-[#e5e7eb]">
-      <div className="py-4 px-2 font-['Proto Mono'] font-semibold text-xl text-[#1f2937] border-b border-[#e5e7eb]">
+      <div className="py-4 px-3 font-['Proto Mono'] font-semibold text-xl text-[#1f2937] border-b border-[#e5e7eb]">
         VEHICLE DETAIL
       </div>
-      <div className="flex-1 overflow-auto py-4 px-2 gap-2 flex flex-col">
+      <div className="flex-1 overflow-auto py-4 px-3 gap-2 flex flex-col">
         {data.map(
           (
             { id, score, damageDescription, componentName, agentName },
