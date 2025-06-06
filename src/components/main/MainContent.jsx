@@ -25,9 +25,9 @@ export default function MainContent() {
         <PreviewImage />
         <PreviewImage />
       </div>
-      <div className="flex-10 max-h-full">
+      <div className="flex items-center justify-center flex-10 max-h-full">
         <img
-          className="w-full max-h-full rounded-xl"
+          className="max-h-full max-w-full rounded-xl"
           src={car4Image}
           alt="Car Preview Image"
         />
